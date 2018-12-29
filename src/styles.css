@@ -1,0 +1,49 @@
+#app {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+  color: midnightblue;
+  height: 100vh;
+}
+
+#header {
+}
+
+#inputs {
+  color: blue;
+}
+
+#map {
+  display: block;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 15px;
+  border-style: solid;
+  border-color: red;
+  border-width: 4px;
+  border-radius: 5px;
+}
+
+#results {
+  display: inline-block;
+  padding: 15px;
+  border-style: solid;
+  border-color: darkgray;
+  border-width: 5px;
+  border-radius: 6px;
+}
+
+#form {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#mapIMG {
+  display: inline-block;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 90%;
+}
